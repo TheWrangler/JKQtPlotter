@@ -1,0 +1,10 @@
+<map id="JKQTPBarVerticalErrorGraph" name="JKQTPBarVerticalErrorGraph">
+<area shape="rect" id="node1" title="This implements a bar graph with bars starting at &#160;to &#160;and error indicatorThis works much the same as..." alt="" coords="90,392,331,421"/>
+<area shape="rect" id="node2" href="$de/d48/a02589.html" title="This implements a bar graph with bars starting at &#160;to This class plots a bargraph...." alt="" coords="5,315,205,344"/>
+<area shape="rect" id="node3" href="$d5/d95/a02625.html" title="This virtual JKQTPGraph descendent may be used as base for all graphs that use at least two columns t..." alt="" coords="37,237,174,267"/>
+<area shape="rect" id="node4" href="$d0/dce/a02617.html" title="this virtual base class of the (data&#45;column based) graphs, which are part of a JKQTPlotter plot and w..." alt="" coords="47,160,164,189"/>
+<area shape="rect" id="node5" href="$db/d6a/a02613.html" title="this virtual base class of every element, which is part of a JKQTPlotter plot and may appear in its k..." alt="" coords="25,83,185,112"/>
+<area shape="rect" id="node6" title=" " alt="" coords="63,5,148,35"/>
+<area shape="rect" id="node7" href="$de/d4c/a02641.html" title="This class adds data fields for error indicators in y direction to a class." alt="" coords="229,315,405,344"/>
+<area shape="rect" id="node8" href="$d6/d6a/a02633.html" title="Descendents of this class add data fields for error indicators and methods to plot them to a class...." alt="" coords="234,237,401,267"/>
+</map>

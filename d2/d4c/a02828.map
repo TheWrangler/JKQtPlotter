@@ -1,0 +1,7 @@
+<map id="JKQTPSingleColumnSymbolsGraph" name="JKQTPSingleColumnSymbolsGraph">
+<area shape="rect" id="node1" title="plots a 1&#45;column set of data&#45;values with symbols onto a JKQtPlotter/JKQtBasePlotter...." alt="" coords="5,315,244,361"/>
+<area shape="rect" id="node2" href="$d8/d70/a02629.html" title="This virtual JKQTPGraph descendent may be used as base for all graphs that use at least one column of..." alt="" coords="14,237,235,267"/>
+<area shape="rect" id="node3" href="$d0/dce/a02617.html" title="this virtual base class of the (data&#45;column based) graphs, which are part of a JKQTPlotter plot and w..." alt="" coords="66,160,183,189"/>
+<area shape="rect" id="node4" href="$db/d6a/a02613.html" title="this virtual base class of every element, which is part of a JKQTPlotter plot and may appear in its k..." alt="" coords="45,83,205,112"/>
+<area shape="rect" id="node5" title=" " alt="" coords="82,5,167,35"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="JKQTPImpulsesHorizontalGraph" name="JKQTPImpulsesHorizontalGraph">
+<area shape="rect" id="node1" title="This implements an impulse plot with impulses in direction of the X axis (i.e. from y=0 to y=f(x) )" alt="" coords="139,315,405,344"/>
+<area shape="rect" id="node6" href="$d0/d51/a02797.html" title="This implements an impulse plot with impulses in direction of the X axis (i.e. from x=0 to x=f(y) )" alt="" coords="5,392,264,439"/>
+<area shape="rect" id="node7" href="$d8/d1e/a02801.html" title="This implements an impulse plot with impulses in direction of the Y axis (i.e. from y=0 to y=f(x) )" alt="" coords="288,401,531,430"/>
+<area shape="rect" id="node2" href="$d5/d95/a02625.html" title="This virtual JKQTPGraph descendent may be used as base for all graphs that use at least two columns t..." alt="" coords="203,237,341,267"/>
+<area shape="rect" id="node3" href="$d0/dce/a02617.html" title="this virtual base class of the (data&#45;column based) graphs, which are part of a JKQTPlotter plot and w..." alt="" coords="213,160,331,189"/>
+<area shape="rect" id="node4" href="$db/d6a/a02613.html" title="this virtual base class of every element, which is part of a JKQTPlotter plot and may appear in its k..." alt="" coords="192,83,352,112"/>
+<area shape="rect" id="node5" title=" " alt="" coords="229,5,315,35"/>
+<area shape="rect" id="node8" href="$d7/d75/a02805.html" title="This implements an impulse plot with impulses in direction of the X axis (i.e. from x=0 to x=f(y) )" alt="" coords="291,487,527,533"/>
+</map>

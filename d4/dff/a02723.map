@@ -1,0 +1,17 @@
+<map id="JKQTPGeoRectangle" name="JKQTPGeoRectangle">
+<area shape="rect" id="node1" title="This JKQTPPlotObject is used to draw a rectangle." alt="" coords="5,605,180,635"/>
+<area shape="rect" id="node2" href="$da/dd2/a02701.html" title="This JKQTPPlotObject is used as base class for geometric drawing elements that only consist of lines ..." alt="" coords="5,527,180,556"/>
+<area shape="rect" id="node3" href="$d5/dbe/a02697.html" title="This JKQTPPlotObject is used as base class for geometric drawing elements that only consist of lines ..." alt="" coords="8,448,177,477"/>
+<area shape="rect" id="node4" href="$d6/d10/a02621.html" title="this is the virtual base class of all JKQTPPlotElement&#39;s in a JKQTPlotter plot that represent geometr..." alt="" coords="19,369,167,399"/>
+<area shape="rect" id="node5" href="$db/d6a/a02613.html" title="this virtual base class of every element, which is part of a JKQTPlotter plot and may appear in its k..." alt="" coords="13,291,173,320"/>
+<area shape="rect" id="node6" title=" " alt="" coords="666,5,751,35"/>
+<area shape="rect" id="node7" href="$dc/de1/a02493.html" title="base class for 2D plotter classes (used by the plotter widget JKQTPlotter)This class implements basic..." alt="" coords="525,196,673,225"/>
+<area shape="rect" id="node8" href="$d3/d53/a02389.html" title="this class parses a LaTeX string and can then draw the contained text/equation onto a QPainter" alt="" coords="382,84,510,113"/>
+<area shape="rect" id="node11" href="$d4/d73/a02465.html" title="this virtual class is the base for any type of coordinate axis, to be drawn by JKQTBasePlotter...." alt="" coords="634,291,821,320"/>
+<area shape="rect" id="node12" href="$d5/d2e/a02905.html" title="data model with all plots ina JKQTBasePlotter (+ allows to switch them visible/invisible)This class i..." alt="" coords="233,291,403,320"/>
+<area shape="rect" id="node9" href="$dd/d6b/a02397.html" title="subclass representing one node in the syntax tree" alt="" coords="303,196,501,225"/>
+<area shape="rect" id="node10" href="$d0/dc2/a02477.html" title="implements a horizontal axis, based on JKQTPCoordinateAxis (for most of documentation: see JKQTPCoord..." alt="" coords="518,369,699,399"/>
+<area shape="rect" id="node14" href="$de/dcb/a02469.html" title="implements a vertical axis, based on JKQTPCoordinateAxis (for most of documentation: see JKQTPCoordin..." alt="" coords="756,369,915,399"/>
+<area shape="rect" id="node13" title=" " alt="" coords="94,196,278,225"/>
+<area shape="rect" id="node15" href="$d6/d28/a02509.html" title="This class manages chunks of memory that are used for column data in JKQTBasePlotter descendents." alt="" coords="579,84,726,113"/>
+</map>

@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['getdatacolumnsbyusersaved',['getDataColumnsByUserSaved',['../dc/de1/a02493.html#a91235d4b1c35da574898c58bbe5ed3e9',1,'JKQTBasePlotter']]],
+  ['global_5findent',['global_indent',['../d6/d58/a02993.html#aeb2385de4fc2c29958f2e375c2cb10c3',1,'JKQTPAutoOutputTimer']]],
+  ['global_5fjkqtpimagetools_5flutstore',['global_jkqtpimagetools_lutstore',['../d3/dac/a01777.html#gaaba7e68ad83fe212c9937316834c7844',1,'jkqtpimagetools.h']]],
+  ['graph',['graph',['../d2/df1/a03057.html#abb854e18be7ea4a3e2d6b1f825f110e2',1,'FormWithJKQTPlotter']]],
+  ['graph1',['graph1',['../d6/deb/a03061.html#a991772bcda8d667e983c74e7fc36e6a7',1,'TestUserInteraction']]],
+  ['graph2',['graph2',['../d6/deb/a03061.html#a3be5febf9dd9e12552b3cfd2d52c1190',1,'TestUserInteraction']]],
+  ['graphcolor',['graphColor',['../dc/de1/a02493.html#addc520cce2301e875fcb92579b28b137',1,'JKQTBasePlotter']]],
+  ['graphpeakstream1',['graphPeakStream1',['../d1/df6/a03045.html#a4b6a85d4cdea3bddd4a7a6075c84f87b',1,'TestWidgetPeaksPlots']]],
+  ['graphpeakstream2',['graphPeakStream2',['../d1/df6/a03045.html#a7f56f4c0591b7bbcfe4ec5b243cd7d8f',1,'TestWidgetPeaksPlots']]],
+  ['graphs',['graphs',['../dc/de1/a02493.html#a92d3532598f2d305f8598559944bdfe7',1,'JKQTBasePlotter']]],
+  ['graphwidth',['graphWidth',['../dc/de1/a02493.html#a44e3c1017ed4032b5a623a10f987d950',1,'JKQTBasePlotter']]],
+  ['gridcolor',['gridColor',['../d7/d52/a02337.html#a8fd851eced48820e18bc126e49f1ab5c',1,'JKQTFastPlotter::gridColor()'],['../d4/d73/a02465.html#a485d4d7ba8f82438e86b19628cce20e2',1,'JKQTPCoordinateAxis::gridColor()']]],
+  ['griddeltax',['gridDeltaX',['../d1/d67/a02561.html#a4c7c65155f6d86abba48656667bfa423',1,'JKQTPXYParametrizedScatterGraph']]],
+  ['griddeltay',['gridDeltaY',['../d1/d67/a02561.html#a81bfece6b5c7cc59d3cd946d0782306a',1,'JKQTPXYParametrizedScatterGraph']]],
+  ['gridmodeforsymbolsize',['gridModeForSymbolSize',['../d1/d67/a02561.html#a9e713eed6f7875787974ceac6407fd98',1,'JKQTPXYParametrizedScatterGraph']]],
+  ['gridprinting',['gridPrinting',['../dc/de1/a02493.html#ab04b69e2a5a48bbcff0acc6aa85c396f',1,'JKQTBasePlotter']]],
+  ['gridprintingcolumns',['gridPrintingColumns',['../dc/de1/a02493.html#aee3c5fde39b967b23bafa4e95c8bd80f',1,'JKQTBasePlotter']]],
+  ['gridprintingcurrentx',['gridPrintingCurrentX',['../dc/de1/a02493.html#ae7ed0b3d830de07038918794ba361391',1,'JKQTBasePlotter']]],
+  ['gridprintingcurrenty',['gridPrintingCurrentY',['../dc/de1/a02493.html#a2ea8aab46f2777118e50b91a6ffdf69a',1,'JKQTBasePlotter']]],
+  ['gridprintinglist',['gridPrintingList',['../dc/de1/a02493.html#a75d90b3dbf71d210c8814b856468a143',1,'JKQTBasePlotter']]],
+  ['gridprintingrows',['gridPrintingRows',['../dc/de1/a02493.html#ab2dff2580f182f4ff5d4a669cedf4225',1,'JKQTBasePlotter']]],
+  ['gridprintingsize',['gridPrintingSize',['../dc/de1/a02493.html#a191dde22aceb92813475f07b0bcbcbd5',1,'JKQTBasePlotter']]],
+  ['gridstyle',['gridStyle',['../d7/d52/a02337.html#a7589dd8910eaac5bfc76215ff192ba1b',1,'JKQTFastPlotter::gridStyle()'],['../d4/d73/a02465.html#a0001b3190a34f86acfa7e01c67994a5c',1,'JKQTPCoordinateAxis::gridStyle()']]],
+  ['gridsymbolfractionsize',['gridSymbolFractionSize',['../d1/d67/a02561.html#a09689674f84d435e036739dcce73a8d5',1,'JKQTPXYParametrizedScatterGraph']]],
+  ['gridwidth',['gridWidth',['../d7/d52/a02337.html#a0adc3d128aceffdf652a2b240db7ba9c',1,'JKQTFastPlotter::gridWidth()'],['../d4/d73/a02465.html#a5f666fc0ceadaff09137c5c992b8edbd',1,'JKQTPCoordinateAxis::gridWidth()']]]
+];

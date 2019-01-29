@@ -1,0 +1,6 @@
+<map id="JKQTFPVCrossPlot" name="JKQTFPVCrossPlot">
+<area shape="rect" id="node1" title="a simple plot that draws a cross for every datapointThis class does not support y errors!" alt="" coords="5,237,169,267"/>
+<area shape="rect" id="node2" href="$dc/d0a/a02345.html" title="a simple line plot for JKQTFastPlotterThis class plots data as (x,y) points connected by straight lin..." alt="" coords="18,160,157,189"/>
+<area shape="rect" id="node3" href="$d4/dfb/a02341.html" title="base class for all plots that may be plotted by JKQTFastPlotter" alt="" coords="34,83,141,112"/>
+<area shape="rect" id="node4" title=" " alt="" coords="45,5,130,35"/>
+</map>

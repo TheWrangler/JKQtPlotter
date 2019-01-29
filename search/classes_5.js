@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['tbrdata',['tbrData',['../d3/d27/a02453.html',1,'JKQTMathText']]],
+  ['tbrdatah',['tbrDataH',['../d4/d87/a02457.html',1,'JKQTMathText']]],
+  ['testform',['TestForm',['../d0/db8/a03001.html',1,'']]],
+  ['testmain',['TestMain',['../d2/daa/a02997.html',1,'']]],
+  ['testuserinteraction',['TestUserInteraction',['../d6/deb/a03061.html',1,'']]],
+  ['testwidgetbarcharts',['TestWidgetBarcharts',['../db/dc5/a03009.html',1,'']]],
+  ['testwidgetcontourplots',['TestWidgetContourPlots',['../d1/db3/a03013.html',1,'']]],
+  ['testwidgetemptyplot',['TestWidgetEmptyPlot',['../dd/dfd/a03017.html',1,'']]],
+  ['testwidgetfunctionplots',['TestWidgetFunctionPlots',['../d2/d76/a03021.html',1,'']]],
+  ['testwidgetgeometry',['TestWidgetGeometry',['../dd/de7/a03025.html',1,'']]],
+  ['testwidgetgraphs',['TestWidgetGraphs',['../df/d1b/a03029.html',1,'']]],
+  ['testwidgetimages',['TestWidgetImages',['../d6/def/a03033.html',1,'']]],
+  ['testwidgetloggraphs',['TestWidgetLogGraphs',['../db/ddb/a03037.html',1,'']]],
+  ['testwidgetparamscatterplots',['TestWidgetParamScatterPlots',['../dc/d23/a03041.html',1,'']]],
+  ['testwidgetpeaksplots',['TestWidgetPeaksPlots',['../d1/df6/a03045.html',1,'']]],
+  ['testwidgetrgbimages',['TestWidgetRGBImages',['../d7/d8c/a03049.html',1,'']]],
+  ['textsizedata',['textSizeData',['../d1/df7/a02501.html',1,'JKQTBasePlotter']]],
+  ['textsizekey',['textSizeKey',['../d1/d94/a02505.html',1,'JKQTBasePlotter']]]
+];

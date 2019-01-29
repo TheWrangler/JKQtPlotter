@@ -1,0 +1,85 @@
+\form#0:$ (x_p(x), y_p(y)) $
+\form#1:\[ x_p(\mbox{xmin})=\mbox{xPlotOffset},\ \ \ \ \ x_p(\mbox{xmax})=\mbox{xPlotOffset}+\mbox{plotWidth} \]
+\form#2:\[ y_p(\mbox{ymax})=\mbox{yPlotOffset},\ \ \ \ \ y_p(\mbox{ymin})=\mbox{yPlotOffset}+\mbox{plotHeight} \]
+\form#3:$ (x_p, y_p) $
+\form#4:$ (x,y) $
+\form#5:\[ x_p(x)=\mbox{xoffset}+x\cdot\mbox{xscale} \ \ \ \ \ \ \ \ \ y_p(y)=\mbox{yoffset}-y\cdot\mbox{yscale} \]
+\form#6:\[ \mbox{xscale}=\frac{\mbox{plotWidth}}{\mbox{xwidth}},\ \ \ \ \ \ \mbox{xoffset}=\mbox{xPlotOffset}-\mbox{xmin}\cdot\mbox{xscale} \]
+\form#7:\[ \mbox{yscale}=\frac{\mbox{plotHeight}}{\mbox{ywidth}},\ \ \ \ \ \ \mbox{yoffset}=\mbox{yPlotOffset}+\mbox{ymax}\cdot\mbox{yscale} \]
+\form#8:$ \log_b(x) $
+\form#9:$ x $
+\form#10:$ b $
+\form#11:$ \log_b(x)=\log(x)/\log(b) $
+\form#12:\[ x_p(x)=\mbox{xoffset}+\frac{\log(x)}{\log(\mbox{logXAxisBase})}\cdot\mbox{xscale} \ \ \ \ \ \ \ \ \ y_p(y)=\mbox{yoffset}-\frac{\log(y)}{\log(\mbox{logYAxisBase})}\cdot\mbox{yscale} \]
+\form#13:\[ \mbox{xscale}=\frac{\mbox{plotWidth}\cdot\log(\mbox{logXAxisBase})}{\log(\mbox{xmax})-\log(\mbox{xmin})},\ \ \ \ \ \ \mbox{xoffset}=\mbox{xPlotOffset}-\frac{\log(\mbox{xmin})}{\log(\mbox{logXAxisBase})}\cdot\mbox{xscale} \]
+\form#14:\[ \mbox{yscale}=\frac{\mbox{plotHeight}\cdot\log(\mbox{logYAxisBase})}{\log(\mbox{ymax})-\log(\mbox{ymin})},\ \ \ \ \ \ \mbox{yoffset}=\mbox{yPlotOffset}+\frac{\log(\mbox{ymax})}{\log(\mbox{logYAxisBase})}\cdot\mbox{yscale} \]
+\form#15:\[ \Delta\mbox{MinorTicks}=\frac{\Delta\mbox{ticks}}{\mbox{minorTicks}+1} \]
+\form#16:$ \Delta\mbox{tick} $
+\form#17:$ \rho $
+\form#18:\[ \Delta\mbox{tick}=f\cdot 10^\rho,\ \ \ \ \ f\in\{1, 2, 2.5, 5\} \]
+\form#19:$ \rho_s=\left\lfloor\log_{10}(\mbox{awidth})\right\rfloor+3 $
+\form#20:$ \rho=\rho_0 $
+\form#21:$ f=10 $
+\form#22:$ f\in\{1, 2, 2.5, 5, 10\} $
+\form#23:$ \Delta\mbox{tick}=f\cdot 10^\rho $
+\form#24:$ \mbox{tickcount}=\mbox{round}\left(\frac{\mbox{awidth}}{\Delta\mbox{tick}}\right) $
+\form#25:$ f=1 $
+\form#26:$ \rho \leftarrow \rho-1 $
+\form#27:$ x=0 $
+\form#28:$ y=0 $
+\form#29:$ \mbox{Xscale}\cdot\Delta x $
+\form#30:$ \Delta x $
+\form#31:$ \mbox{Yscale}\cdot\Delta < $
+\form#32:$ \Delta < $
+\form#33:$ f(x) $
+\form#34:$ \left(x, f(x) \right) $
+\form#35:$ \left(f(y), y \right) $
+\form#36:$ x_i $
+\form#37:$ y=f(x) $
+\form#38:$ x=f(y) $
+\form#39:$ y=f(x, \vec{p}) $
+\form#40:$ \vec{p} $
+\form#41:$ \alpha_{\mbox{left}} $
+\form#42:$ \alpha_{\mbox{right}} $
+\form#43:\[ \left|\alpha_{\mbox{right}}-\alpha_{\mbox{left}}\right|>\mbox{slopeTolerance} \]
+\form#44:$ \left(x, y=f(x, \vec{p})\right) $
+\form#45:$ [a, b] $
+\form#46:\[ \mbox{minSamples} \cdot 2^{\mbox{maxRefinementDegree}} \]
+\form#47:$ f(x)=p_0+p_1x+p_2x^2+p_3x^3+... $
+\form#48:$ p_0, p_1, ... $
+\form#49:$ f(x)=p_0+p_1x $
+\form#50:$ f(x)=p_0+p_1\cdot\exp(x/p_2) $
+\form#51:$ f(x)=p_0\cdot\exp(x/p_1) $
+\form#52:$ f(x)=p_0+p_1\cdot x^{p_3} $
+\form#53:$ f(x)=p_0\cdot x^{p_1} $
+\form#54:$ f(x)= x^{p_0} $
+\form#55:$ p_i $
+\form#56:$ 2^{\mbox{delta\_wheel}} $
+\form#57:\[ \Delta t=\frac{N_{\mbox{now}}-N_{\mbox{start}}}{\mbox{\texttt{QueryPerformanceFrequency()}}}\cdot 10^{6} \]
+\form#58:$ \pi $
+\form#59:$ \exp(1) $
+\form#60:$ \sqrt{2} $
+\form#61:$ \log_2(e) $
+\form#62:$ \log_{10}(e) $
+\form#63:$ \ln(2)=\log_{e}(2) $
+\form#64:$ \ln(10)=\log_{e}(10) $
+\form#65:$ 6.6260689633\cdot 10^{-34}\;\mathrm{J\cdot s} $
+\form#66:$ \hbar=\frac{h}{2\pi}= 1.05457162853\cdot 10^{-34}\;\mathrm{J\cdot s} $
+\form#67:$ \epsilon_0= 8.854187817\cdot 10^{-12}\;\mathrm{\frac{F}{m}} $
+\form#68:$ \mu_0=2\pi\cdot 10^{-7}= 12.566370614\cdot 10^{-7}\;\mathrm{\frac{N}{A^2}} $
+\form#69:$ 299792458\;\mathrm{\frac{m}{s}} $
+\form#70:$ 1.60217648740\cdot 10^{-19}\;\mathrm{C}$
+\form#71:$ \mu_B= 927.40091523\cdot 10^{-26}\;\mathrm{\frac{J}{T}} $
+\form#72:$ \mu_B=5.788381755579\cdot 10^{-5}\;\mathrm{\frac{eV}{T}} $
+\form#73:$ \mu_N=5.0507832413\cdot 10^{-27}\;\mathrm{\frac{J}{T}} $
+\form#74:$ \mu_N=3.152451232645\cdot 10^{-8}\;\mathrm{\frac{eV}{T}} $
+\form#75:$ m_e= 9.1093821545\cdot 10^{-31}\;\mathrm{kg} $
+\form#76:$ m_p= 1.67262163783\cdot 10^{-27}\;\mathrm{kg} $
+\form#77:$ m_n= 1.67492721184\cdot 10^{-27}\;\mathrm{kg} $
+\form#78:$ N_A= 6.0221417930\cdot 10^{23} $
+\form#79:$ k_B=1.380650424\cdot 10^{-23}\;\mathrm{\frac{J}{K}} $
+\form#80:$ k_B=8.61734315\cdot 10^{-5}\;\mathrm{\frac{eV}{K}} $
+\form#81:$ \lambda $
+\form#82:$ 5\cdot 10^{-6} $
+\form#83:$ 3\cdot 10^3 $
+\form#84:$ 3\cdot 10^5 $

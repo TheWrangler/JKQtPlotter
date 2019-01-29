@@ -1,0 +1,20 @@
+<map id="JKQTPBarHorizontalErrorGraph" name="JKQTPBarHorizontalErrorGraph">
+<area shape="rect" id="node1" title="This implements a bar graph with bars starting at &#160;to &#160;and error indicatorThis works much the same as..." alt="" coords="121,684,385,713"/>
+<area shape="rect" id="node2" href="$dd/d05/a02601.html" title="This implements a bar graph with bars starting at &#160;to This works much the same as JKQTPBarHorizontalG..." alt="" coords="5,605,228,635"/>
+<area shape="rect" id="node3" href="$de/d48/a02589.html" title="This implements a bar graph with bars starting at &#160;to This class plots a bargraph...." alt="" coords="17,527,217,556"/>
+<area shape="rect" id="node4" href="$d5/d95/a02625.html" title="This virtual JKQTPGraph descendent may be used as base for all graphs that use at least two columns t..." alt="" coords="48,448,185,477"/>
+<area shape="rect" id="node5" href="$d0/dce/a02617.html" title="this virtual base class of the (data&#45;column based) graphs, which are part of a JKQTPlotter plot and w..." alt="" coords="58,369,175,399"/>
+<area shape="rect" id="node6" href="$db/d6a/a02613.html" title="this virtual base class of every element, which is part of a JKQTPlotter plot and may appear in its k..." alt="" coords="37,291,197,320"/>
+<area shape="rect" id="node7" title=" " alt="" coords="657,5,742,35"/>
+<area shape="rect" id="node8" href="$dc/de1/a02493.html" title="base class for 2D plotter classes (used by the plotter widget JKQTPlotter)This class implements basic..." alt="" coords="549,196,697,225"/>
+<area shape="rect" id="node9" href="$d3/d53/a02389.html" title="this class parses a LaTeX string and can then draw the contained text/equation onto a QPainter" alt="" coords="406,84,534,113"/>
+<area shape="rect" id="node12" href="$d4/d73/a02465.html" title="this virtual class is the base for any type of coordinate axis, to be drawn by JKQTBasePlotter...." alt="" coords="658,291,845,320"/>
+<area shape="rect" id="node13" href="$d5/d2e/a02905.html" title="data model with all plots ina JKQTBasePlotter (+ allows to switch them visible/invisible)This class i..." alt="" coords="257,291,427,320"/>
+<area shape="rect" id="node10" href="$dd/d6b/a02397.html" title="subclass representing one node in the syntax tree" alt="" coords="327,196,525,225"/>
+<area shape="rect" id="node11" href="$d0/dc2/a02477.html" title="implements a horizontal axis, based on JKQTPCoordinateAxis (for most of documentation: see JKQTPCoord..." alt="" coords="522,369,703,399"/>
+<area shape="rect" id="node15" href="$de/dcb/a02469.html" title="implements a vertical axis, based on JKQTPCoordinateAxis (for most of documentation: see JKQTPCoordin..." alt="" coords="757,369,916,399"/>
+<area shape="rect" id="node14" title=" " alt="" coords="118,196,302,225"/>
+<area shape="rect" id="node16" href="$d6/d28/a02509.html" title="This class manages chunks of memory that are used for column data in JKQTBasePlotter descendents." alt="" coords="603,84,750,113"/>
+<area shape="rect" id="node17" href="$d2/de3/a02637.html" title="This class adds data fields for error indicators in x direction to a JKQTPGraph descendent." alt="" coords="253,605,431,635"/>
+<area shape="rect" id="node18" href="$d6/d6a/a02633.html" title="Descendents of this class add data fields for error indicators and methods to plot them to a class...." alt="" coords="259,527,425,556"/>
+</map>

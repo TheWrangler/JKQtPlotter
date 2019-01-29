@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['readme_2emd',['README.md',['../d2/d66/a03352.html',1,'(Global Namespace)'],['../d4/d90/a03355.html',1,'(Global Namespace)'],['../df/d24/a03358.html',1,'(Global Namespace)']]],
+  ['test_5fdistributionplot_2epro',['test_distributionplot.pro',['../d3/def/a00446.html',1,'']]],
+  ['test_5fdistributionplot_5fand_5flib_2epro',['test_distributionplot_and_lib.pro',['../d9/d10/a00449.html',1,'']]],
+  ['test_5fmultiplot_2epro',['test_multiplot.pro',['../dd/d63/a00455.html',1,'']]],
+  ['test_5fmultiplot_5fand_5flib_2epro',['test_multiplot_and_lib.pro',['../da/d65/a00458.html',1,'']]],
+  ['test_5fuser_5finteraction_2eh',['test_user_interaction.h',['../d2/d9d/a00464.html',1,'']]],
+  ['test_5fuser_5finteraction_2epro',['test_user_interaction.pro',['../d7/d5e/a00467.html',1,'']]],
+  ['test_5fuser_5finteraction_5fand_5flib_2epro',['test_user_interaction_and_lib.pro',['../d0/d29/a00470.html',1,'']]],
+  ['testform_2eh',['testform.h',['../d5/df9/a00044.html',1,'']]],
+  ['testform_2eui',['testform.ui',['../d6/d2d/a00047.html',1,'']]],
+  ['testmain_2eh',['testmain.h',['../df/d6a/a00119.html',1,'']]],
+  ['testwidgetbarcharts_2eh',['TestWidgetBarcharts.h',['../dc/dfe/a00125.html',1,'']]],
+  ['testwidgetcontourplots_2eh',['TestWidgetContourPlots.h',['../d7/d06/a00131.html',1,'']]],
+  ['testwidgetemptyplot_2eh',['TestWidgetEmptyPlot.h',['../d2/df5/a00137.html',1,'']]],
+  ['testwidgetfunctionplots_2eh',['TestWidgetFunctionPlots.h',['../d7/dce/a00143.html',1,'']]],
+  ['testwidgetgeometry_2eh',['TestWidgetGeometry.h',['../da/d1e/a00149.html',1,'']]],
+  ['testwidgetgraphs_2eh',['TestWidgetGraphs.h',['../d3/df8/a00155.html',1,'']]],
+  ['testwidgetimages_2eh',['TestWidgetImages.h',['../d6/d7d/a00161.html',1,'']]],
+  ['testwidgetloggraphs_2eh',['TestWidgetLogGraphs.h',['../dc/de6/a00167.html',1,'']]],
+  ['testwidgetparamscatterplots_2eh',['TestWidgetParamScatterPlots.h',['../d7/d3f/a00173.html',1,'']]],
+  ['testwidgetpeaksplots_2eh',['TestWidgetPeaksPlots.h',['../db/dd9/a00179.html',1,'']]],
+  ['testwidgetrgbimages_2eh',['TestWidgetRGBImages.h',['../de/df3/a00185.html',1,'']]]
+];

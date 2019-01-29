@@ -1,0 +1,26 @@
+var a02709 =
+[
+    [ "JKQTPGeoText", "d6/d8f/a02709.html#ace111b509b4d4fbdd71dd609d6409d0a", null ],
+    [ "JKQTPGeoText", "d6/d8f/a02709.html#a71f4c0ef284398577c40f2ecb01d21a3", null ],
+    [ "draw", "d6/d8f/a02709.html#a74154b75e92cf9498cd4b6c8feace574", null ],
+    [ "drawKeyMarker", "d6/d8f/a02709.html#ac0f18d1cefdc35823da38a69f5a2b7ba", null ],
+    [ "getColor", "d6/d8f/a02709.html#ae89ac3a86e48d3b1f5bc34913a102749", null ],
+    [ "getFontSize", "d6/d8f/a02709.html#a2ddb9efef51c97d3ee40200fc07e90e8", null ],
+    [ "getKeyLabelColor", "d6/d8f/a02709.html#abee2e91ff6b3fd3e082557cfaf188f89", null ],
+    [ "getPen", "d6/d8f/a02709.html#a7cf4f6d1bd60f12ce2c97ff05cbdc621", null ],
+    [ "getText", "d6/d8f/a02709.html#a209304255067c74be4c59fd475ac546a", null ],
+    [ "getX", "d6/d8f/a02709.html#ad98040925c7b20a987bb12093a082b62", null ],
+    [ "getXMinMax", "d6/d8f/a02709.html#ac6da3f160dac903d4f2684344b219524", null ],
+    [ "getY", "d6/d8f/a02709.html#a8606a97c6403508cfb5bc4c0a7fb8c86", null ],
+    [ "getYMinMax", "d6/d8f/a02709.html#a24ad424e19b4a80c6189db6a38757c13", null ],
+    [ "setColor", "d6/d8f/a02709.html#a312f66990e5cc54ab0a421bd9f8bc098", null ],
+    [ "setFontSize", "d6/d8f/a02709.html#af8795e84247a562711f5042a2251a6e6", null ],
+    [ "setText", "d6/d8f/a02709.html#aad13c0e779980a6fa2a23b5416323962", null ],
+    [ "setX", "d6/d8f/a02709.html#ada1f635b4e25578f9c3372d321dbb469", null ],
+    [ "setY", "d6/d8f/a02709.html#a3018134992708aba540b8aef10e20a0c", null ],
+    [ "color", "d6/d8f/a02709.html#a0549dd65bb73ca972c845cfb4f73e171", null ],
+    [ "fontSize", "d6/d8f/a02709.html#ae2544606ba836fb3923b07141a56c3cc", null ],
+    [ "text", "d6/d8f/a02709.html#a93217c9b9fb8e1cf96f7e231156266cc", null ],
+    [ "x", "d6/d8f/a02709.html#a765512434cb7a7302260befbb5e1bbd4", null ],
+    [ "y", "d6/d8f/a02709.html#a9c8aac88a7f4c64f08ed738bf4b41abb", null ]
+];

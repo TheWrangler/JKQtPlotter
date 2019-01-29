@@ -1,0 +1,17 @@
+<map id="JKQTPFilledCurveYGraph" name="JKQTPFilledCurveYGraph">
+<area shape="rect" id="node1" title="This implements filled curve plots where the area is filled between the plot line and y&#45;Axis." alt="" coords="7,605,215,635"/>
+<area shape="rect" id="node2" href="$d0/da6/a02677.html" title="This implements filled curve plots where the area is filled between the plot line and the x&#45;Axis." alt="" coords="5,527,216,556"/>
+<area shape="rect" id="node3" href="$d5/d95/a02625.html" title="This virtual JKQTPGraph descendent may be used as base for all graphs that use at least two columns t..." alt="" coords="42,448,179,477"/>
+<area shape="rect" id="node4" href="$d0/dce/a02617.html" title="this virtual base class of the (data&#45;column based) graphs, which are part of a JKQTPlotter plot and w..." alt="" coords="52,369,169,399"/>
+<area shape="rect" id="node5" href="$db/d6a/a02613.html" title="this virtual base class of every element, which is part of a JKQTPlotter plot and may appear in its k..." alt="" coords="31,291,191,320"/>
+<area shape="rect" id="node6" title=" " alt="" coords="684,5,769,35"/>
+<area shape="rect" id="node7" href="$dc/de1/a02493.html" title="base class for 2D plotter classes (used by the plotter widget JKQTPlotter)This class implements basic..." alt="" coords="543,196,691,225"/>
+<area shape="rect" id="node8" href="$d3/d53/a02389.html" title="this class parses a LaTeX string and can then draw the contained text/equation onto a QPainter" alt="" coords="400,84,528,113"/>
+<area shape="rect" id="node11" href="$d4/d73/a02465.html" title="this virtual class is the base for any type of coordinate axis, to be drawn by JKQTBasePlotter...." alt="" coords="652,291,839,320"/>
+<area shape="rect" id="node12" href="$d5/d2e/a02905.html" title="data model with all plots ina JKQTBasePlotter (+ allows to switch them visible/invisible)This class i..." alt="" coords="251,291,421,320"/>
+<area shape="rect" id="node9" href="$dd/d6b/a02397.html" title="subclass representing one node in the syntax tree" alt="" coords="321,196,519,225"/>
+<area shape="rect" id="node10" href="$d0/dc2/a02477.html" title="implements a horizontal axis, based on JKQTPCoordinateAxis (for most of documentation: see JKQTPCoord..." alt="" coords="536,369,717,399"/>
+<area shape="rect" id="node14" href="$de/dcb/a02469.html" title="implements a vertical axis, based on JKQTPCoordinateAxis (for most of documentation: see JKQTPCoordin..." alt="" coords="774,369,933,399"/>
+<area shape="rect" id="node13" title=" " alt="" coords="112,196,296,225"/>
+<area shape="rect" id="node15" href="$d6/d28/a02509.html" title="This class manages chunks of memory that are used for column data in JKQTBasePlotter descendents." alt="" coords="597,84,744,113"/>
+</map>

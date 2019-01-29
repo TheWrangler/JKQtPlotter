@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['b1',['b1',['../df/d1b/a03029.html#af0dcd37dd1312d8ac39b51d98ad4a4bd',1,'TestWidgetGraphs']]],
+  ['b2',['b2',['../df/d1b/a03029.html#af0ed139c24378d4370c71e98a2af42b1',1,'TestWidgetGraphs']]],
+  ['b3',['b3',['../df/d1b/a03029.html#a98596f350ea79cafbaa444a57bb99ff8',1,'TestWidgetGraphs']]],
+  ['backgroundcolor',['backgroundColor',['../d7/d52/a02337.html#a342238f8b8fa4395316cec31f5f7f58e',1,'JKQTFastPlotter::backgroundColor()'],['../dc/de1/a02493.html#a27b76d7f4436ddfdfbbf0fb717050db5',1,'JKQTBasePlotter::backgroundColor()']]],
+  ['backtransform',['backTransform',['../db/de8/a02525.html#a33cf036f8cf0f66d34d1b2e5da64e09c',1,'JKQTPOverlayElement::backTransform(const QPointF &amp;x)'],['../db/de8/a02525.html#aa89b6728b6ae7d3565f58f238bf3465e',1,'JKQTPOverlayElement::backTransform(double x, double y)'],['../db/d6a/a02613.html#ad15637d9d0658b3a2ad86d795d0370cf',1,'JKQTPPlotElement::backTransform(const QPointF &amp;x)'],['../db/d6a/a02613.html#a3f481118f14622cf6689fc65e346b5dd',1,'JKQTPPlotElement::backTransform(double x, double y)']]],
+  ['backtransformx',['backtransformX',['../db/d6a/a02613.html#ad2b42d793d7175164ce0fec9289eb831',1,'JKQTPPlotElement']]],
+  ['backtransformy',['backtransformY',['../db/d6a/a02613.html#af097180315bf911f874e4f7380137157',1,'JKQTPPlotElement']]],
+  ['baseline',['baseline',['../de/d48/a02589.html#ad779ea930dd8129ca6fc5d69ca1ab84e',1,'JKQTPBarVerticalGraph::baseline()'],['../d0/da6/a02677.html#a7a4d954aa77e2691b65ad5bae2c270c6',1,'JKQTPFilledCurveXGraph::baseline()'],['../df/d9c/a02793.html#a83b605da092a3ed49cb0f16a27a3649d',1,'JKQTPImpulsesHorizontalGraph::baseline()'],['../df/d7d/a02825.html#ad70a47176074e275b2ca16b3f666b7e2',1,'JKQTPPeakStreamGraph::baseline()']]],
+  ['beeswarmscatter',['BeeSwarmScatter',['../db/d4f/a02829.html#a3631b52ee32dceb1418183aefe7f7ce4a3f4575e0ea717726636ceb3b856b133f',1,'JKQTPSingleColumnSymbolsGraph']]],
+  ['beforeplotscalingrecalculate',['beforePlotScalingRecalculate',['../dc/de1/a02493.html#a0430a74e7aaebd9bac86e8102fce20b4',1,'JKQTBasePlotter::beforePlotScalingRecalculate()'],['../d0/d2b/a02833.html#ad325f2a1a12602b10d63087ee51a506c',1,'JKQTPlotter::beforePlotScalingRecalculate()']]],
+  ['bold',['bold',['../d1/d29/a02393.html#aafc2df20a1f6a477436fe6dcc2c810fe',1,'JKQTMathText::MTenvironment::bold()'],['../d5/da5/a02413.html#a4a0086363afebbc0426cb339dfb39a4f',1,'JKQTMathText::MTsymbolNode::bold()']]],
+  ['boolean',['boolean',['../dd/d0d/a02929.html#ad16d0ec91769885d555a653b081b66b8',1,'JKQTPMathParser::jkmpResult::boolean()'],['../df/d5c/a02933.html#a50e2f3c786a11518f0006d7a9bcd2fcc',1,'JKQTPMathParser::jkmpVariable::boolean()'],['../d2/d46/a02937.html#a6fb3f3b7801faa729a1d6c943ad60430',1,'JKQTPMathParser::jkmpTempVariable::boolean()']]],
+  ['bottomleft',['BottomLeft',['../d7/d1a/a02381.html#a580485b92c4f4e9b3e65d43628c3f9afaae1d2f3bae13dd1b5a72807a9b97adbf',1,'JKQTFPQScaleBarXPlot']]],
+  ['bottomright',['BottomRight',['../d7/d1a/a02381.html#a580485b92c4f4e9b3e65d43628c3f9afa5dfba4e29872ec1cdef9ce28acb03fd6',1,'JKQTFPQScaleBarXPlot']]],
+  ['boxwidth',['boxWidth',['../d9/dfe/a02649.html#a09d8e181adc0ceb8f9c6b40e4e53ac99',1,'JKQTPBoxplotVerticalGraph::boxWidth()'],['../da/de8/a02657.html#ae147282a2dcd8fc26e8cc51d0c8c04f7',1,'JKQTPBoxplotVerticalElement::boxWidth()']]],
+  ['brace_5ffactor',['brace_factor',['../d3/d53/a02389.html#a789296ebe6e466c87aae0bdd009f2743',1,'JKQTMathText']]],
+  ['brace_5fshrink_5ffactor',['brace_shrink_factor',['../d3/d53/a02389.html#ac497bc656c1f218f0a47804087352b15',1,'JKQTMathText']]],
+  ['brace_5fy_5fshift_5ffactor',['brace_y_shift_factor',['../d3/d53/a02389.html#a6ddbfe67b6ee9ee4a832e1739712c296',1,'JKQTMathText']]],
+  ['buffer',['buffer',['../df/d68/a02461.html#a5a2bf74b499a1ca7212db85f3ee0ce86',1,'JKQTMathTextLabel']]],
+  ['basic_20_28non_2dgraph_29_20plot_20elements_20_28coordinate_20axes_2c_20_2e_2e_2e_29',['Basic (non-graph) Plot Elements (coordinate axes, ...)',['../dc/d51/a01764.html',1,'']]],
+  ['barcharts_2c_20stick_2dcharts_2c_20_2e_2e_2e',['Barcharts, Stick-Charts, ...',['../d7/d02/a01771.html',1,'']]],
+  ['baseclasses_20for_20graphs',['Baseclasses for Graphs',['../d0/d79/a01766.html',1,'']]],
+  ['base_20classes_20for_20error_20indicators',['Base Classes for Error Indicators',['../d1/dab/a01767.html',1,'']]]
+];

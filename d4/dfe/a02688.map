@@ -1,0 +1,11 @@
+<map id="JKQTPFilledCurveYErrorGraph" name="JKQTPFilledCurveYErrorGraph">
+<area shape="rect" id="node1" title="This implements filled curve plots with y errors where the area is filled between the plot line and t..." alt="" coords="94,469,343,499"/>
+<area shape="rect" id="node2" href="$d8/dd8/a02685.html" title="This implements filled curve plots where the area is filled between the plot line and y&#45;Axis." alt="" coords="7,392,215,421"/>
+<area shape="rect" id="node3" href="$d0/da6/a02677.html" title="This implements filled curve plots where the area is filled between the plot line and the x&#45;Axis." alt="" coords="5,315,216,344"/>
+<area shape="rect" id="node4" href="$d5/d95/a02625.html" title="This virtual JKQTPGraph descendent may be used as base for all graphs that use at least two columns t..." alt="" coords="42,237,179,267"/>
+<area shape="rect" id="node5" href="$d0/dce/a02617.html" title="this virtual base class of the (data&#45;column based) graphs, which are part of a JKQTPlotter plot and w..." alt="" coords="52,160,169,189"/>
+<area shape="rect" id="node6" href="$db/d6a/a02613.html" title="this virtual base class of every element, which is part of a JKQTPlotter plot and may appear in its k..." alt="" coords="31,83,191,112"/>
+<area shape="rect" id="node7" title=" " alt="" coords="68,5,153,35"/>
+<area shape="rect" id="node8" href="$d2/de3/a02637.html" title="This class adds data fields for error indicators in x direction to a JKQTPGraph descendent." alt="" coords="239,392,417,421"/>
+<area shape="rect" id="node9" href="$d6/d6a/a02633.html" title="Descendents of this class add data fields for error indicators and methods to plot them to a class...." alt="" coords="245,315,411,344"/>
+</map>

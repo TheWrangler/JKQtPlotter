@@ -1,0 +1,11 @@
+<map id="JKQTPOverlayElement" name="JKQTPOverlayElement">
+<area shape="rect" id="node1" title="this virtual base class describes an interface for graph overlay elements, which are simple geometric..." alt="" coords="139,85,329,115"/>
+<area shape="rect" id="node3" href="$dc/db6/a02533.html" title="baseclass for one&#45;coordinate indicator overlays (horizontal/vertical lines" alt="" coords="382,59,649,88"/>
+<area shape="rect" id="node7" href="$dd/dd9/a02529.html" title="baseclass for a two&#45;position overlay" alt="" coords="377,112,653,141"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,85,91,115"/>
+<area shape="rect" id="node4" href="$d1/d2e/a02537.html" title="baseclass for two&#45;coordinate indicator overlays (horizontal/vertical lines" alt="" coords="701,5,965,35"/>
+<area shape="rect" id="node6" href="$de/dd4/a02541.html" title="draws a vertical line as an overlayThese simple primitive elements can be used to e...." alt="" coords="726,59,941,88"/>
+<area shape="rect" id="node5" href="$de/d8b/a02545.html" title="draws a vertical range as an overlayThese simple primitive elements can be used to e...." alt="" coords="1013,5,1247,35"/>
+<area shape="rect" id="node8" href="$d0/df5/a02549.html" title="draws a line throught two points" alt="" coords="754,112,913,141"/>
+<area shape="rect" id="node9" href="$dd/d68/a02553.html" title="draws a rectangle, spanned by two points" alt="" coords="732,165,935,195"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="JKQTPImpulsesVerticalErrorGraph" name="JKQTPImpulsesVerticalErrorGraph">
+<area shape="rect" id="node1" title="This implements an impulse plot with impulses in direction of the X axis (i.e. from x=0 to x=f(y) )" alt="" coords="141,469,377,516"/>
+<area shape="rect" id="node2" href="$d8/d1e/a02801.html" title="This implements an impulse plot with impulses in direction of the Y axis (i.e. from y=0 to y=f(x) )" alt="" coords="19,392,261,421"/>
+<area shape="rect" id="node3" href="$df/d9c/a02793.html" title="This implements an impulse plot with impulses in direction of the X axis (i.e. from y=0 to y=f(x) )" alt="" coords="5,315,272,344"/>
+<area shape="rect" id="node4" href="$d5/d95/a02625.html" title="This virtual JKQTPGraph descendent may be used as base for all graphs that use at least two columns t..." alt="" coords="70,237,207,267"/>
+<area shape="rect" id="node5" href="$d0/dce/a02617.html" title="this virtual base class of the (data&#45;column based) graphs, which are part of a JKQTPlotter plot and w..." alt="" coords="80,160,197,189"/>
+<area shape="rect" id="node6" href="$db/d6a/a02613.html" title="this virtual base class of every element, which is part of a JKQTPlotter plot and may appear in its k..." alt="" coords="59,83,219,112"/>
+<area shape="rect" id="node7" title=" " alt="" coords="96,5,181,35"/>
+<area shape="rect" id="node8" href="$de/d4c/a02641.html" title="This class adds data fields for error indicators in y direction to a class." alt="" coords="289,392,465,421"/>
+<area shape="rect" id="node9" href="$d6/d6a/a02633.html" title="Descendents of this class add data fields for error indicators and methods to plot them to a class...." alt="" coords="297,315,463,344"/>
+</map>

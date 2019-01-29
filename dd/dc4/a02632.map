@@ -1,0 +1,14 @@
+<map id="JKQTPGraphErrors" name="JKQTPGraphErrors">
+<area shape="rect" id="node1" title="Descendents of this class add data fields for error indicators and methods to plot them to a class...." alt="" coords="5,216,172,245"/>
+<area shape="rect" id="node2" href="$d2/de3/a02637.html" title="This class adds data fields for error indicators in x direction to a JKQTPGraph descendent." alt="" coords="224,91,403,120"/>
+<area shape="rect" id="node6" href="$d2/d80/a02645.html" title="This class adds data fields for error indicators in x and y direction to a class." alt="" coords="220,216,407,245"/>
+<area shape="rect" id="node9" href="$de/d4c/a02641.html" title="This class adds data fields for error indicators in y direction to a class." alt="" coords="225,336,401,365"/>
+<area shape="rect" id="node3" href="$df/d40/a02609.html" title="This implements a bar graph with bars starting at &#160;to &#160;and error indicatorThis works much the same as..." alt="" coords="455,5,719,35"/>
+<area shape="rect" id="node4" href="$df/dff/a02689.html" title="This implements filled curve plots with y errors where the area is filled between the plot line and t..." alt="" coords="462,59,711,88"/>
+<area shape="rect" id="node5" href="$d0/d51/a02797.html" title="This implements an impulse plot with impulses in direction of the X axis (i.e. from x=0 to x=f(y) )" alt="" coords="457,113,716,159"/>
+<area shape="rect" id="node7" href="$d3/dff/a02565.html" title="This implements xy line plots with x and y error indicators." alt="" coords="482,184,691,213"/>
+<area shape="rect" id="node8" href="$df/dd3/a02569.html" title="This implements xy scatter plots (like JKQTPXYLineGraph), but the color and size of the symbols may b..." alt="" coords="471,238,703,285"/>
+<area shape="rect" id="node10" href="$de/d94/a02597.html" title="This implements a bar graph with bars starting at &#160;to &#160;and error indicatorThis works much the same as..." alt="" coords="466,309,707,339"/>
+<area shape="rect" id="node11" href="$d4/d9d/a02681.html" title="This implements filled curve plots with y errors where the area is filled between the plot line and t..." alt="" coords="461,363,712,392"/>
+<area shape="rect" id="node12" href="$d7/d75/a02805.html" title="This implements an impulse plot with impulses in direction of the X axis (i.e. from x=0 to x=f(y) )" alt="" coords="469,417,705,463"/>
+</map>

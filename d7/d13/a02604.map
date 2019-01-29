@@ -1,0 +1,9 @@
+<map id="JKQTPBarHorizontalStackableGraph" name="JKQTPBarHorizontalStackableGraph">
+<area shape="rect" id="node1" title="This implements a bar graph with bars starting at &#160;to &#160;Optionally several graphs of this type may be ..." alt="" coords="5,469,255,516"/>
+<area shape="rect" id="node2" href="$dd/d05/a02601.html" title="This implements a bar graph with bars starting at &#160;to This works much the same as JKQTPBarHorizontalG..." alt="" coords="19,392,241,421"/>
+<area shape="rect" id="node3" href="$de/d48/a02589.html" title="This implements a bar graph with bars starting at &#160;to This class plots a bargraph...." alt="" coords="30,315,230,344"/>
+<area shape="rect" id="node4" href="$d5/d95/a02625.html" title="This virtual JKQTPGraph descendent may be used as base for all graphs that use at least two columns t..." alt="" coords="61,237,199,267"/>
+<area shape="rect" id="node5" href="$d0/dce/a02617.html" title="this virtual base class of the (data&#45;column based) graphs, which are part of a JKQTPlotter plot and w..." alt="" coords="71,160,189,189"/>
+<area shape="rect" id="node6" href="$db/d6a/a02613.html" title="this virtual base class of every element, which is part of a JKQTPlotter plot and may appear in its k..." alt="" coords="50,83,210,112"/>
+<area shape="rect" id="node7" title=" " alt="" coords="87,5,173,35"/>
+</map>

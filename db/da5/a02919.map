@@ -1,0 +1,15 @@
+<map id="JKQTPColorPaletteTools" name="JKQTPColorPaletteTools">
+<area shape="rect" id="node1" title="if a class is derived from this class, it may use color bars" alt="" coords="1748,200,1947,229"/>
+<area shape="rect" id="node2" href="$dc/de1/a02493.html" title="base class for 2D plotter classes (used by the plotter widget JKQTPlotter)This class implements basic..." alt="" coords="476,189,624,219"/>
+<area shape="rect" id="node7" href="$d4/d73/a02465.html" title="this virtual class is the base for any type of coordinate axis, to be drawn by JKQTBasePlotter...." alt="" coords="809,252,996,281"/>
+<area shape="rect" id="node8" href="$d5/d2e/a02905.html" title="data model with all plots ina JKQTBasePlotter (+ allows to switch them visible/invisible)This class i..." alt="" coords="817,43,988,72"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,225,91,255"/>
+<area shape="rect" id="node4" href="$d3/d53/a02389.html" title="this class parses a LaTeX string and can then draw the contained text/equation onto a QPainter" alt="" coords="149,153,277,183"/>
+<area shape="rect" id="node5" href="$dd/d6b/a02397.html" title="subclass representing one node in the syntax tree" alt="" coords="451,81,649,111"/>
+<area shape="rect" id="node6" href="$d0/dc2/a02477.html" title="implements a horizontal axis, based on JKQTPCoordinateAxis (for most of documentation: see JKQTPCoord..." alt="" coords="1045,200,1227,229"/>
+<area shape="rect" id="node12" href="$d9/dd8/a02481.html" title="implements a position&#45;indipendent horizontal axis, based on JKQTPCoordinateAxis (for most of document..." alt="" coords="1276,200,1555,229"/>
+<area shape="rect" id="node10" href="$de/dcb/a02469.html" title="implements a vertical axis, based on JKQTPCoordinateAxis (for most of documentation: see JKQTPCoordin..." alt="" coords="1057,256,1215,285"/>
+<area shape="rect" id="node9" title=" " alt="" coords="458,5,642,35"/>
+<area shape="rect" id="node13" href="$d9/dc1/a02473.html" title="implements a position&#45;indipendent vertical axis, based on JKQTPCoordinateAxis (for most of documentat..." alt="" coords="1287,253,1543,283"/>
+<area shape="rect" id="node11" href="$d6/d28/a02509.html" title="This class manages chunks of memory that are used for column data in JKQTBasePlotter descendents." alt="" coords="140,277,287,307"/>
+</map>

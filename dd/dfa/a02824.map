@@ -1,0 +1,7 @@
+<map id="JKQTPPeakStreamGraph" name="JKQTPPeakStreamGraph">
+<area shape="rect" id="node1" title="interprets data as a stream of x&#45; or y&#45;positions &#160;(depending in yPeaks ) ans plots a line on the heig..." alt="" coords="11,315,221,344"/>
+<area shape="rect" id="node2" href="$d8/d70/a02629.html" title="This virtual JKQTPGraph descendent may be used as base for all graphs that use at least one column of..." alt="" coords="5,237,227,267"/>
+<area shape="rect" id="node3" href="$d0/dce/a02617.html" title="this virtual base class of the (data&#45;column based) graphs, which are part of a JKQTPlotter plot and w..." alt="" coords="57,160,175,189"/>
+<area shape="rect" id="node4" href="$db/d6a/a02613.html" title="this virtual base class of every element, which is part of a JKQTPlotter plot and may appear in its k..." alt="" coords="36,83,196,112"/>
+<area shape="rect" id="node5" title=" " alt="" coords="73,5,159,35"/>
+</map>

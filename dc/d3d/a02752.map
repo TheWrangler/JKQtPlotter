@@ -1,0 +1,12 @@
+<map id="JKQTPMathImageBase" name="JKQTPMathImageBase">
+<area shape="rect" id="node1" title="base class to hold an image from an 2&#45;dimensional array of values" alt="" coords="312,315,505,344"/>
+<area shape="rect" id="node6" href="$dd/d4a/a02761.html" title="class to plot an image from an 2&#45;dimensional array of values" alt="" coords="234,392,389,421"/>
+<area shape="rect" id="node9" href="$da/d73/a02765.html" title="class to plot an image from an 2&#45;dimensional array of values" alt="" coords="422,392,611,421"/>
+<area shape="rect" id="node2" href="$df/d40/a02749.html" title="base class for plotting an image" alt="" coords="331,237,486,267"/>
+<area shape="rect" id="node3" href="$d0/dce/a02617.html" title="this virtual base class of the (data&#45;column based) graphs, which are part of a JKQTPlotter plot and w..." alt="" coords="350,160,467,189"/>
+<area shape="rect" id="node4" href="$db/d6a/a02613.html" title="this virtual base class of every element, which is part of a JKQTPlotter plot and may appear in its k..." alt="" coords="329,83,489,112"/>
+<area shape="rect" id="node5" title=" " alt="" coords="366,5,451,35"/>
+<area shape="rect" id="node7" href="$d1/da5/a02769.html" title="class to plot an image from an 2&#45;dimensional array of values stored in a column of the datastore" alt="" coords="5,469,220,499"/>
+<area shape="rect" id="node8" href="$db/d38/a02789.html" title="class for a contour plotcalculates the contour of a given image using the CONREC algorithm http://pau..." alt="" coords="245,469,378,499"/>
+<area shape="rect" id="node10" href="$db/de5/a02773.html" title="like JKQTPRGBMathImage but reads images from columns of the datastore" alt="" coords="402,469,650,499"/>
+</map>

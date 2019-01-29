@@ -1,0 +1,10 @@
+<map id="JKQTPXYParametrizedScatterGraph" name="JKQTPXYParametrizedScatterGraph">
+<area shape="rect" id="node1" title="This implements xy scatter plots (like JKQTPXYLineGraph), but the color and size of the symbols may b..." alt="" coords="70,392,317,439"/>
+<area shape="rect" id="node8" href="$df/dd3/a02569.html" title="This implements xy scatter plots (like JKQTPXYLineGraph), but the color and size of the symbols may b..." alt="" coords="77,487,309,533"/>
+<area shape="rect" id="node2" href="$dd/d98/a02557.html" title="This implements xy line plots. This also alows to draw symbols at the data points." alt="" coords="5,315,173,344"/>
+<area shape="rect" id="node3" href="$d5/d95/a02625.html" title="This virtual JKQTPGraph descendent may be used as base for all graphs that use at least two columns t..." alt="" coords="21,237,158,267"/>
+<area shape="rect" id="node4" href="$d0/dce/a02617.html" title="this virtual base class of the (data&#45;column based) graphs, which are part of a JKQTPlotter plot and w..." alt="" coords="31,160,148,189"/>
+<area shape="rect" id="node5" href="$db/d6a/a02613.html" title="this virtual base class of every element, which is part of a JKQTPlotter plot and may appear in its k..." alt="" coords="9,83,169,112"/>
+<area shape="rect" id="node6" title=" " alt="" coords="47,5,132,35"/>
+<area shape="rect" id="node7" href="$df/d27/a02921.html" title="if a class is derived from this class, it may use color bars" alt="" coords="198,315,397,344"/>
+</map>

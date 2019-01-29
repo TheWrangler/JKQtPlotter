@@ -1,0 +1,7 @@
+<map id="JKQTPXGraphErrors" name="JKQTPXGraphErrors">
+<area shape="rect" id="node1" title="This class adds data fields for error indicators in x direction to a JKQTPGraph descendent." alt="" coords="220,59,399,88"/>
+<area shape="rect" id="node3" href="$df/d40/a02609.html" title="This implements a bar graph with bars starting at &#160;to &#160;and error indicatorThis works much the same as..." alt="" coords="447,5,711,35"/>
+<area shape="rect" id="node4" href="$df/dff/a02689.html" title="This implements filled curve plots with y errors where the area is filled between the plot line and t..." alt="" coords="454,59,703,88"/>
+<area shape="rect" id="node5" href="$d0/d51/a02797.html" title="This implements an impulse plot with impulses in direction of the X axis (i.e. from x=0 to x=f(y) )" alt="" coords="449,113,708,159"/>
+<area shape="rect" id="node2" href="$d6/d6a/a02633.html" title="Descendents of this class add data fields for error indicators and methods to plot them to a class...." alt="" coords="5,59,172,88"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="JKQTPXYGraphErrors" name="JKQTPXYGraphErrors">
+<area shape="rect" id="node1" title="This class adds data fields for error indicators in x and y direction to a class." alt="" coords="139,83,326,112"/>
+<area shape="rect" id="node3" href="$d3/dff/a02565.html" title="This implements xy line plots with x and y error indicators." alt="" coords="5,169,215,198"/>
+<area shape="rect" id="node4" href="$df/dd3/a02569.html" title="This implements xy scatter plots (like JKQTPXYLineGraph), but the color and size of the symbols may b..." alt="" coords="239,160,471,207"/>
+<area shape="rect" id="node2" href="$d6/d6a/a02633.html" title="Descendents of this class add data fields for error indicators and methods to plot them to a class...." alt="" coords="149,5,316,35"/>
+</map>

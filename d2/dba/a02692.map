@@ -1,0 +1,7 @@
+<map id="JKQTPFilledVerticalRangeGraph" name="JKQTPFilledVerticalRangeGraph">
+<area shape="rect" id="node1" title="This implements filled curve plots where the area is filled between two data columns for each x&#45;value..." alt="" coords="5,315,216,361"/>
+<area shape="rect" id="node2" href="$d5/d95/a02625.html" title="This virtual JKQTPGraph descendent may be used as base for all graphs that use at least two columns t..." alt="" coords="42,237,179,267"/>
+<area shape="rect" id="node3" href="$d0/dce/a02617.html" title="this virtual base class of the (data&#45;column based) graphs, which are part of a JKQTPlotter plot and w..." alt="" coords="52,160,169,189"/>
+<area shape="rect" id="node4" href="$db/d6a/a02613.html" title="this virtual base class of every element, which is part of a JKQTPlotter plot and may appear in its k..." alt="" coords="31,83,191,112"/>
+<area shape="rect" id="node5" title=" " alt="" coords="68,5,153,35"/>
+</map>

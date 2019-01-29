@@ -1,0 +1,20 @@
+<map id="JKQTPPlotObject" name="JKQTPPlotObject">
+<area shape="rect" id="node1" title="this is the virtual base class of all JKQTPPlotElement&#39;s in a JKQTPlotter plot that represent geometr..." alt="" coords="347,165,495,195"/>
+<area shape="rect" id="node4" href="$da/de8/a02657.html" title="This implements a single vertical boxplot as a &quot;geometric element&quot;, where the data is directly given ..." alt="" coords="543,32,789,61"/>
+<area shape="rect" id="node6" href="$d5/dbe/a02697.html" title="This JKQTPPlotObject is used as base class for geometric drawing elements that only consist of lines ..." alt="" coords="581,139,751,168"/>
+<area shape="rect" id="node17" href="$da/d28/a02705.html" title="This virtual JKQTPGraph descendent may be used to display a single symbol (marker)." alt="" coords="587,192,745,221"/>
+<area shape="rect" id="node18" href="$d6/d8f/a02709.html" title="This JKQTPPlotObject is used to display text. It uses the JKQTMathText class in order to display LaTe..." alt="" coords="601,245,731,275"/>
+<area shape="rect" id="node2" href="$db/d6a/a02613.html" title="this virtual base class of every element, which is part of a JKQTPlotter plot and may appear in its k..." alt="" coords="139,165,299,195"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,165,91,195"/>
+<area shape="rect" id="node5" href="$d8/d69/a02661.html" title="This implements a horizontal boxplot where the data is directly given to the object and not stored in..." alt="" coords="837,5,1108,35"/>
+<area shape="rect" id="node7" href="$dc/de8/a02737.html" title="This JKQTPPlotObject is used to draw an arc." alt="" coords="909,59,1036,88"/>
+<area shape="rect" id="node8" href="$da/dd2/a02701.html" title="This JKQTPPlotObject is used as base class for geometric drawing elements that only consist of lines ..." alt="" coords="885,112,1060,141"/>
+<area shape="rect" id="node14" href="$d0/df8/a02717.html" title="This JKQTPPlotObject is used to draw an infinite linean infinite line has a starting point and then g..." alt="" coords="881,165,1064,195"/>
+<area shape="rect" id="node15" href="$dc/d1d/a02713.html" title="This JKQTPPlotObject is used to draw a line." alt="" coords="907,219,1038,248"/>
+<area shape="rect" id="node16" href="$db/d8f/a02721.html" title="This JKQTPPlotObject is used to draw a poly line." alt="" coords="887,272,1058,301"/>
+<area shape="rect" id="node9" href="$dd/d01/a02729.html" title="This JKQTPPlotObject is used to draw a polygon." alt="" coords="1163,85,1324,115"/>
+<area shape="rect" id="node10" href="$df/d50/a02725.html" title="This JKQTPPlotObject is used to draw a rectangle." alt="" coords="1156,139,1331,168"/>
+<area shape="rect" id="node11" href="$df/d6f/a02733.html" title="This JKQTPPlotObject is used to draw an ellipse." alt="" coords="1379,139,1525,168"/>
+<area shape="rect" id="node12" href="$d6/d0b/a02741.html" title="This JKQTPPlotObject is used to draw a pie." alt="" coords="1573,139,1696,168"/>
+<area shape="rect" id="node13" href="$db/d00/a02745.html" title="This JKQTPPlotObject is used to draw a chord." alt="" coords="1744,139,1892,168"/>
+</map>

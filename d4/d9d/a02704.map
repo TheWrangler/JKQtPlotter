@@ -1,0 +1,6 @@
+<map id="JKQTPGeoSymbol" name="JKQTPGeoSymbol">
+<area shape="rect" id="node1" title="This virtual JKQTPGraph descendent may be used to display a single symbol (marker)." alt="" coords="7,237,164,267"/>
+<area shape="rect" id="node2" href="$d6/d10/a02621.html" title="this is the virtual base class of all JKQTPPlotElement&#39;s in a JKQTPlotter plot that represent geometr..." alt="" coords="11,160,159,189"/>
+<area shape="rect" id="node3" href="$db/d6a/a02613.html" title="this virtual base class of every element, which is part of a JKQTPlotter plot and may appear in its k..." alt="" coords="5,83,165,112"/>
+<area shape="rect" id="node4" title=" " alt="" coords="43,5,128,35"/>
+</map>

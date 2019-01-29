@@ -1,0 +1,11 @@
+<map id="JKQTPGeoChord" name="JKQTPGeoChord">
+<area shape="rect" id="node1" title="This JKQTPPlotObject is used to draw a chord." alt="" coords="19,624,167,653"/>
+<area shape="rect" id="node2" href="$d6/d0b/a02741.html" title="This JKQTPPlotObject is used to draw a pie." alt="" coords="31,547,154,576"/>
+<area shape="rect" id="node3" href="$df/d6f/a02733.html" title="This JKQTPPlotObject is used to draw an ellipse." alt="" coords="19,469,166,499"/>
+<area shape="rect" id="node4" href="$df/d50/a02725.html" title="This JKQTPPlotObject is used to draw a rectangle." alt="" coords="5,392,180,421"/>
+<area shape="rect" id="node5" href="$da/dd2/a02701.html" title="This JKQTPPlotObject is used as base class for geometric drawing elements that only consist of lines ..." alt="" coords="5,315,180,344"/>
+<area shape="rect" id="node6" href="$d5/dbe/a02697.html" title="This JKQTPPlotObject is used as base class for geometric drawing elements that only consist of lines ..." alt="" coords="8,237,177,267"/>
+<area shape="rect" id="node7" href="$d6/d10/a02621.html" title="this is the virtual base class of all JKQTPPlotElement&#39;s in a JKQTPlotter plot that represent geometr..." alt="" coords="19,160,167,189"/>
+<area shape="rect" id="node8" href="$db/d6a/a02613.html" title="this virtual base class of every element, which is part of a JKQTPlotter plot and may appear in its k..." alt="" coords="13,83,173,112"/>
+<area shape="rect" id="node9" title=" " alt="" coords="50,5,135,35"/>
+</map>

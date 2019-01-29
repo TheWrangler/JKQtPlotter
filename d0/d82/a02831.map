@@ -1,0 +1,17 @@
+<map id="JKQTPlotter" name="JKQTPlotter">
+<area shape="rect" id="node1" title="plotter widget for scientific plots (uses JKQTBasePlotter to do the actual drawing)This class is a QW..." alt="" coords="997,87,1107,116"/>
+<area shape="rect" id="node2" title=" " alt="" coords="535,5,625,35"/>
+<area shape="rect" id="node3" href="$dc/d86/a02909.html" title="a modified QToolBar which vanishes when the mouse leaves the toolbar." alt="" coords="501,59,659,88"/>
+<area shape="rect" id="node4" title=" " alt="" coords="168,59,259,88"/>
+<area shape="rect" id="node5" href="$dc/de1/a02493.html" title="base class for 2D plotter classes (used by the plotter widget JKQTPlotter)This class implements basic..." alt="" coords="506,359,654,388"/>
+<area shape="rect" id="node10" href="$d4/d73/a02465.html" title="this virtual class is the base for any type of coordinate axis, to be drawn by JKQTBasePlotter...." alt="" coords="959,232,1145,261"/>
+<area shape="rect" id="node11" href="$d5/d2e/a02905.html" title="data model with all plots ina JKQTBasePlotter (+ allows to switch them visible/invisible)This class i..." alt="" coords="967,444,1137,473"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,267,91,296"/>
+<area shape="rect" id="node7" href="$d3/d53/a02389.html" title="this class parses a LaTeX string and can then draw the contained text/equation onto a QPainter" alt="" coords="149,267,277,296"/>
+<area shape="rect" id="node8" href="$dd/d6b/a02397.html" title="subclass representing one node in the syntax tree" alt="" coords="481,240,679,269"/>
+<area shape="rect" id="node9" href="$d0/dc2/a02477.html" title="implements a horizontal axis, based on JKQTPCoordinateAxis (for most of documentation: see JKQTPCoord..." alt="" coords="1195,260,1376,289"/>
+<area shape="rect" id="node13" href="$de/dcb/a02469.html" title="implements a vertical axis, based on JKQTPCoordinateAxis (for most of documentation: see JKQTPCoordin..." alt="" coords="1206,336,1365,365"/>
+<area shape="rect" id="node12" title=" " alt="" coords="488,488,672,517"/>
+<area shape="rect" id="node14" href="$d6/d28/a02509.html" title="This class manages chunks of memory that are used for column data in JKQTBasePlotter descendents." alt="" coords="140,359,287,388"/>
+<area shape="rect" id="node15" href="$dc/dfd/a02837.html" title="ties a MouseActionMode to a mouse&#45;button and a keyboard&#45;modifier" alt="" coords="451,112,709,141"/>
+</map>

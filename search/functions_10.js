@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['reactgraphvisible',['reactGraphVisible',['../d0/d2b/a02833.html#a0b241c3cebe392da85faccce8a0844dd',1,'JKQTPlotter']]],
+  ['readdelim',['readDelim',['../d8/de8/a02925.html#a428e3bbbb7b91d8b11a89d49a22763b1',1,'JKQTPMathParser']]],
+  ['redrawoverlays',['redrawOverlays',['../d0/d2b/a02833.html#a9eebe274d4c46d20b48c4fa32eb06cdb',1,'JKQTPlotter']]],
+  ['redrawplot',['redrawPlot',['../d7/d52/a02337.html#aaebcc44f7cd80c7f762dcacd40d9bb99',1,'JKQTFastPlotter::redrawPlot()'],['../d4/d73/a02465.html#a025dffd728cb558f39dd5601af56a994',1,'JKQTPCoordinateAxis::redrawPlot()'],['../dc/de1/a02493.html#ac725ccd1780435f95a429468bde5978d',1,'JKQTBasePlotter::redrawPlot()'],['../d0/d2b/a02833.html#aebce042360ddc51b50472760ed272f7d',1,'JKQTPlotter::redrawPlot()']]],
+  ['redrawplotimmediate',['redrawPlotImmediate',['../d7/d52/a02337.html#a8522d7b0fd0cb4884c3dd6c70545cc58',1,'JKQTFastPlotter']]],
+  ['refill',['refill',['../d7/d13/a02873.html#a5f61debf3626f4154f764bacaef68943',1,'JKQTPLinePlotStyleComboBox::refill()'],['../d1/dc2/a02877.html#a177523654634c89719f74cd4a42ae24a',1,'JKQTPLinePlotStyleWithSymbolSizeComboBox::refill()']]],
+  ['refine',['refine',['../d3/d32/a02665.html#ace616e10212cb18e5a08c53bcefe71ca',1,'JKQTPXFunctionLineGraph']]],
+  ['registeradditionalaction',['registerAdditionalAction',['../dc/de1/a02493.html#a1b13e385eafb8026857daf2a36712f7a',1,'JKQTBasePlotter']]],
+  ['registermousedoubleclickaction',['registerMouseDoubleClickAction',['../d0/d2b/a02833.html#ac1d7f5d2bf805c088836f9ff833ce0aa',1,'JKQTPlotter']]],
+  ['registermousedragaction',['registerMouseDragAction',['../d0/d2b/a02833.html#a77cf96890653b94e2b1a372ce0f9dfd9',1,'JKQTPlotter']]],
+  ['registermousewheelaction',['registerMouseWheelAction',['../d0/d2b/a02833.html#a243a0c93bb0b2a7577d2cf9f380f4a20',1,'JKQTPlotter']]],
+  ['registerpaintdeviceadapter',['registerPaintDeviceAdapter',['../dc/de1/a02493.html#a3bece7b4e062dc52600fa45b7948fda9',1,'JKQTBasePlotter']]],
+  ['registersavedataadapter',['registerSaveDataAdapter',['../dc/de1/a02493.html#a79c9a07a90738ca85afb0409b77054a8',1,'JKQTBasePlotter']]],
+  ['reloadmodel',['reloadModel',['../d0/dbf/a02521.html#a93c36f2d26253742b8315941f5f9ea07',1,'JKQTPDatastoreModel']]],
+  ['replot',['replot',['../d4/dfb/a02341.html#abb5a8c18ef894f918f8a77b6dc694929',1,'JKQTFPPlot']]],
+  ['replotting',['replotting',['../d7/d52/a02337.html#ab076aa06f24049a47f7e53766a988b7d',1,'JKQTFastPlotter']]],
+  ['resetexception_5ffunction',['resetException_function',['../d5/d77/a01749.html#gafe834a471a03603015fb88728c74413d',1,'JKQTPMathParser']]],
+  ['resetmastersynchronization',['resetMasterSynchronization',['../dc/de1/a02493.html#a195b29db93e07ab187f90c9ca4fe574c',1,'JKQTBasePlotter::resetMasterSynchronization()'],['../d0/d2b/a02833.html#a13d57ea085f92e86fddbe2e79b2a7682',1,'JKQTPlotter::resetMasterSynchronization()']]],
+  ['resize',['resize',['../dc/de1/a02493.html#a8dc9d500029442f6151bae8f978cf13d',1,'JKQTBasePlotter']]],
+  ['resizecolumns',['resizeColumns',['../d4/db4/a02517.html#a4c00db859fd3034816ded503833bcd29',1,'JKQTPDatastoreItem']]],
+  ['resizeevent',['resizeEvent',['../d7/d52/a02337.html#a7cf1891eb055091ee4a9087ecc4c3f84',1,'JKQTFastPlotter::resizeEvent()'],['../d0/d2b/a02833.html#aac9ca452a7d8cd096245c5f634b30960',1,'JKQTPlotter::resizeEvent()']]],
+  ['rowcount',['rowCount',['../d0/dbf/a02521.html#adbb191f9cc0b04563f2586b214d4f782',1,'JKQTPDatastoreModel::rowCount()'],['../d5/d2e/a02905.html#add5384cc40ef78eab722797e319ec6de',1,'JKQTPGraphsModel::rowCount()']]]
+];

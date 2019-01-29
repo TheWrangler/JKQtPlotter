@@ -1,0 +1,67 @@
+var a01770 =
+[
+    [ "JKQTPXParsedFunctionLineGraph", "d5/d34/a02809.html", [
+      [ "JKQTPXParsedFunctionLineGraph", "d5/d34/a02809.html#aaad90a5cfa000538c6397205e7ee752f", null ],
+      [ "JKQTPXParsedFunctionLineGraph", "d5/d34/a02809.html#a6fe961afcf56c14b9a5215f1571cc6e6", null ],
+      [ "~JKQTPXParsedFunctionLineGraph", "d5/d34/a02809.html#aa63a5c7e4312aa79ae013210f41f6f49", null ],
+      [ "createPlotData", "d5/d34/a02809.html#a6b004c4cf2d2eae60e2c1bde5433aabc", null ],
+      [ "getErrorFunction", "d5/d34/a02809.html#a61c35e5cecffd80b36fee4cc6cbc5209", null ],
+      [ "getFunction", "d5/d34/a02809.html#a2ec00037e31a852478f3b10a993748c9", null ],
+      [ "JKQTPXParsedFunctionLineGraphFunction", "d5/d34/a02809.html#abf7c63065e42124ddd91f34320f5596b", null ],
+      [ "setErrorFunction", "d5/d34/a02809.html#a111f7d9a469b9879a0d1403dbefada80", null ],
+      [ "setErrorParams", "d5/d34/a02809.html#ad038b265e57b1dd31a958f244d369599", null ],
+      [ "setErrorParams", "d5/d34/a02809.html#ace1112b8f2163c5537c410cabd2011ba", null ],
+      [ "setErrorPlotFunction", "d5/d34/a02809.html#aab0057ced1aed9fd20061e66b3a29fc0", null ],
+      [ "setErrorPlotFunction", "d5/d34/a02809.html#a05bfcbaec0a938c078affc2993f0c7c9", null ],
+      [ "setErrorPlotFunction", "d5/d34/a02809.html#a66fb8da45270fb9e3a3bb2747df0e5b6", null ],
+      [ "setErrorPlotFunction", "d5/d34/a02809.html#a8ff1a397982322ec4ab3886a4100dc0c", null ],
+      [ "setFunction", "d5/d34/a02809.html#a4e5b9d94a937cbdbfd836c3815767f0b", null ],
+      [ "setParams", "d5/d34/a02809.html#a4080183fe3bf4bcc09d3aa90be704b73", null ],
+      [ "setParams", "d5/d34/a02809.html#a12c802ae20f450bd456c9f59ab520d8c", null ],
+      [ "setPlotFunction", "d5/d34/a02809.html#a3d2664bfc736d15dc0976e368e9261dc", null ],
+      [ "setPlotFunction", "d5/d34/a02809.html#a118c97f7d4a4dd1f369966e3d2e49505", null ],
+      [ "setPlotFunction", "d5/d34/a02809.html#ac815634a10e899dd82f50553d67334d1", null ],
+      [ "setPlotFunction", "d5/d34/a02809.html#a26d7a35dbea1d95a80f00122d54c2115", null ],
+      [ "efdata", "d5/d34/a02809.html#ae57df600fc25a4ab46fb77d1655f24bf", null ],
+      [ "errorFunction", "d5/d34/a02809.html#ab45d2c3beae47c8786c81e265d4d4ee8", null ],
+      [ "fdata", "d5/d34/a02809.html#aee4af9221799ca7b25c2c6866d8a2715", null ],
+      [ "function", "d5/d34/a02809.html#ab87964af34786fc9bd78c3ec6122c978", null ]
+    ] ],
+    [ "JKQTPXParsedFunctionLineGraphFunctionData", "d3/d85/a02813.html", [
+      [ "node", "d3/d85/a02813.html#a7aaf371b68b62c72f480182734c6b781", null ],
+      [ "parser", "d3/d85/a02813.html#a762a028f162803bbabba318514b4cf34", null ],
+      [ "varcount", "d3/d85/a02813.html#a54a5cd77a563a80f58068077e7cf338a", null ]
+    ] ],
+    [ "JKQTPYParsedFunctionLineGraph", "db/d27/a02817.html", [
+      [ "JKQTPYParsedFunctionLineGraph", "db/d27/a02817.html#a26cbabd9bad02bee3921fe0837fcdf3b", null ],
+      [ "JKQTPYParsedFunctionLineGraph", "db/d27/a02817.html#afd4be9ade5dcd569ff809c56c18558ee", null ],
+      [ "~JKQTPYParsedFunctionLineGraph", "db/d27/a02817.html#aee00fd44a814a55eb2e58e58032bc5eb", null ],
+      [ "createPlotData", "db/d27/a02817.html#a15b04141adfb65d149bea901e4f88e75", null ],
+      [ "getErrorFunction", "db/d27/a02817.html#a013e0443b5740d27c80b25363c1e34b7", null ],
+      [ "getFunction", "db/d27/a02817.html#ab84669876701fb7100e0f1eef26a4b8a", null ],
+      [ "JKQTPYParsedFunctionLineGraphFunction", "db/d27/a02817.html#a109cafd60c8dcac0f6ac593a2ed7e2aa", null ],
+      [ "setErrorFunction", "db/d27/a02817.html#a59d39aa140c7dcaebb09d99e597caecf", null ],
+      [ "setErrorParams", "db/d27/a02817.html#ad038b265e57b1dd31a958f244d369599", null ],
+      [ "setErrorParams", "db/d27/a02817.html#ace1112b8f2163c5537c410cabd2011ba", null ],
+      [ "setErrorPlotFunction", "db/d27/a02817.html#aab0057ced1aed9fd20061e66b3a29fc0", null ],
+      [ "setErrorPlotFunction", "db/d27/a02817.html#a05bfcbaec0a938c078affc2993f0c7c9", null ],
+      [ "setErrorPlotFunction", "db/d27/a02817.html#a66fb8da45270fb9e3a3bb2747df0e5b6", null ],
+      [ "setErrorPlotFunction", "db/d27/a02817.html#a8ff1a397982322ec4ab3886a4100dc0c", null ],
+      [ "setFunction", "db/d27/a02817.html#a875fe6c46685fe6a9f92f97d0f187929", null ],
+      [ "setParams", "db/d27/a02817.html#a4080183fe3bf4bcc09d3aa90be704b73", null ],
+      [ "setParams", "db/d27/a02817.html#a12c802ae20f450bd456c9f59ab520d8c", null ],
+      [ "setPlotFunction", "db/d27/a02817.html#a3d2664bfc736d15dc0976e368e9261dc", null ],
+      [ "setPlotFunction", "db/d27/a02817.html#a118c97f7d4a4dd1f369966e3d2e49505", null ],
+      [ "setPlotFunction", "db/d27/a02817.html#ac815634a10e899dd82f50553d67334d1", null ],
+      [ "setPlotFunction", "db/d27/a02817.html#a26d7a35dbea1d95a80f00122d54c2115", null ],
+      [ "efdata", "db/d27/a02817.html#ae91079fd2eb1caf0ab61d4a5948a158e", null ],
+      [ "errorFunction", "db/d27/a02817.html#af0d8e1bf6f0a5875f0182275ea77fb30", null ],
+      [ "fdata", "db/d27/a02817.html#a6eb5ff1471aa612dd2bb80fe6e8ecf8a", null ],
+      [ "function", "db/d27/a02817.html#afb93e14735a0d60b2f120f5fca2feec0", null ]
+    ] ],
+    [ "JKQTPYParsedFunctionLineGraphFunctionData", "db/de9/a02821.html", [
+      [ "node", "db/de9/a02821.html#adae5332e5637ee8e5e463f173a6b8840", null ],
+      [ "parser", "db/de9/a02821.html#af86dc427595413e906b6de381c018e04", null ],
+      [ "varcount", "db/de9/a02821.html#a3f8780de2d97fcee3af8529c8f1d38f2", null ]
+    ] ]
+];

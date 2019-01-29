@@ -1,0 +1,8 @@
+<map id="JKQTPGeoPolygon" name="JKQTPGeoPolygon">
+<area shape="rect" id="node1" title="This JKQTPPlotObject is used to draw a polygon." alt="" coords="12,392,173,421"/>
+<area shape="rect" id="node2" href="$da/dd2/a02701.html" title="This JKQTPPlotObject is used as base class for geometric drawing elements that only consist of lines ..." alt="" coords="5,315,180,344"/>
+<area shape="rect" id="node3" href="$d5/dbe/a02697.html" title="This JKQTPPlotObject is used as base class for geometric drawing elements that only consist of lines ..." alt="" coords="8,237,177,267"/>
+<area shape="rect" id="node4" href="$d6/d10/a02621.html" title="this is the virtual base class of all JKQTPPlotElement&#39;s in a JKQTPlotter plot that represent geometr..." alt="" coords="19,160,167,189"/>
+<area shape="rect" id="node5" href="$db/d6a/a02613.html" title="this virtual base class of every element, which is part of a JKQTPlotter plot and may appear in its k..." alt="" coords="13,83,173,112"/>
+<area shape="rect" id="node6" title=" " alt="" coords="50,5,135,35"/>
+</map>
